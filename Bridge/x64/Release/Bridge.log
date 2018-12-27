@@ -1,0 +1,17 @@
+﻿  circle.cpp
+f:\vs_source\bridge\bridge\circle.cpp(87): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  DisjointSet_L.cpp
+f:\vs_source\bridge\bridge\disjointset_l.cpp(76): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  DisjointSet_S.cpp
+f:\vs_source\bridge\bridge\disjointset_s.cpp(125): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  findBridge.cpp
+  function.cpp
+  main.cpp
+  Pair.cpp
+  Tarjan.cpp
+  正在生成代码
+  554 of 570 functions (97.2%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Bridge.vcxproj -> F:\VS_Source\Bridge\x64\Release\Bridge.exe

@@ -1,0 +1,11 @@
+﻿  DisjointSet_L.cpp
+f:\vs_source\bridge\bridge\disjointset_l.cpp(75): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  DisjointSet_S.cpp
+f:\vs_source\bridge\bridge\disjointset_s.cpp(124): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Pair.cpp
+  Tarjan.cpp
+  findBridge.cpp
+  function.cpp
+  main.cpp
+  正在生成代码...
+  Bridge.vcxproj -> F:\VS_Source\Bridge\x64\Debug\Bridge.exe
